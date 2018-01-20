@@ -1,3 +1,3 @@
 # frequency
 
-erlang playground
+erlang OTP playground
